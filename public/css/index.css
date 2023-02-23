@@ -1,0 +1,7 @@
+body {
+    background-color: rgb(88, 88, 197);
+}
+
+#messages-container {
+    height: 80vh;
+}
